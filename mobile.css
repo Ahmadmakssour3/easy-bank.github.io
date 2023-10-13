@@ -72,12 +72,19 @@ text-align: center;
     text-align: center;
     flex-direction: row;
 }
+.hero_section-main {
+margin-top:10vh;
+width: 80%;
+}
 .fa {
     text-align: center;
     justify-content: center;
     align-items: center;
     padding-top: 15px;
     
+}
+.about-head {
+    margin-top: 20vh;
 }
 .footer {
     flex-direction: column;
